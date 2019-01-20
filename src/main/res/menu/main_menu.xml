@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/AccountSettings"
+        android:title="Change Password" />
+    <item android:title="Help"
+        android:id="@+id/help"/>
+    <item
+        android:id="@+id/signOut"
+        android:title="SignOut" />
+    <item
+        android:id="@+id/menu_add"
+        android:title="Add"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_add"/>
+    <item
+        android:id="@+id/menu_refresh"
+        android:title="Refresh"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_refresh"/>
+</menu>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ToDo</string>
+    <string name="button_positive">Add</string>
+    <string name="button_negative">Cancel</string>
+    <string name="button_positivedelete">Yes</string>
+    <string name="button_Share">Share</string>
+    <string name="button_Delete">Delete</string>
+</resources>
